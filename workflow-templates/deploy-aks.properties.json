@@ -1,0 +1,11 @@
+{
+    "name": "Deploy to AKS",
+    "description": "Build and release a Docker image on Azure Kubernetes Service using a staging and production environment with HTTP healthchecks.",
+    "iconName": "docker-icon",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
