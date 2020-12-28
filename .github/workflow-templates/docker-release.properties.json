@@ -1,0 +1,11 @@
+{
+    "name": "Docker Release Workflow",
+    "description": "Build and release a Docker image on both GitHub Packages and Docker Hub.",
+    "iconName": "docker-icon",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
